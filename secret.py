@@ -123,7 +123,7 @@ else:
         time.sleep(2)
 
     st.markdown("---")
-    st.caption("Made this to celebrate your awesomeness! - Yours truly, Me (One and Only Me)")
+    st.caption("Made this to celebrate your awesomeness! - Deviously coded by Your Favorite Headache 🧠💥")
 
     roasts = [
     "😈 Remember, this praise is just a clever disguise so you’ll keep fixing bugs *really fast*. No slacking! 🐢💨",
