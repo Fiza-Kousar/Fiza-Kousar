@@ -127,10 +127,12 @@ else:
 
     roasts = [
     "😈 Remember, this praise is just a clever disguise so you’ll keep fixing bugs *really fast*. No slacking! 🐢💨",
-    "🔥 Excessive awesomeness detected. Side effects include faster bug fixes and occasional eye rolls from your favorite boss. 😏",
-    "😜 **FYI:** This royal treatment comes with one secret clause — you owe me *at least* one bug-free sprint. Deal? 🤝",
+    "🔥 Warning: Too much awesomeness in one place — may cause sudden bursts of coding genius, mysterious disappearing bugs, and the boss wondering if you’ve made a deal with the devil. 😈👀",
+    "😜 **FYI:** This royal treatment comes with a secret fine print — you owe me at least one sprint where I won’t mark a QA miss, even if there totally is one. Deal? 🤝",
     "🤡 **Disclaimer:** All compliments here are sponsored by my desperate need for your coding magic. Keep the magic flowing! ✨",
     "🕵️‍♂️ **Note:** If you think this was pure generosity, think again. I’m just investing in my own bug-free future. Smart, right? 😎"
+    "🕵️‍♂️ Pro tip: Don’t mistake this for generosity — I’m just hoping for a bunch of bugs to keep my bug-hunting skills sharp. Bring them on! 😈🔍"
+
 ]
 
     st.markdown("---")
