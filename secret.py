@@ -86,7 +86,7 @@ else:
 
     # Your "typed" message sequence
     typed_lines = [
-        f"Hey {developer_name} 🙌",
+        f"Hey Dev 🙌",
         "How's life treating you, bug warrior? 🤖",
         "We know these days have been jam-packed with Jira tickets and last-minute commits...",
         "But just so you know — you're not just a dev...",
