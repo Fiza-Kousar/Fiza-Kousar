@@ -3,8 +3,8 @@ import time
 import random
 
 # Hardcoded names
-developer_name = "Arjun"  # Change this to your dev's name
-your_name = "Rahul"        # Change this to your name
+developer_name = "Fiza"  # Change this to your dev's name
+your_name = "Fiza Kousar"        # Change this to your name
 
 # Fun royal compliments
 praises = [
@@ -32,14 +32,15 @@ if "access_granted" not in st.session_state:
     st.session_state.access_granted = False
 
 # Streamlit UI
-st.set_page_config(page_title="Dev Appreciation App", page_icon="🚀")
-st.title("Welcome to the Dev Appreciation Portal 🚀")
+st.set_page_config(page_title="A Special Tribute to Our Star Dev 🚀", page_icon="🚀")
+st.title("Welcome to the Bug Fixer’s Den — Where Code Trembles and Bugs Run for Cover! 😎🔥")
+
 
 if not st.session_state.access_granted:
     # Step 1: Get Dev & Sender Names
     with st.form("entry_form"):
-        dev_input = st.text_input("Enter the Developer's Name")
-        sender_input = st.text_input("Enter Your Name")
+        dev_input = st.text_input("Enter the First name of the one who’s making your day")
+        sender_input = st.text_input("Who's the QA that breaks your builds? (Full Name) 💥")
         submitted = st.form_submit_button("Continue")
 
     if submitted:
