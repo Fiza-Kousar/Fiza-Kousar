@@ -8,11 +8,11 @@ your_name = "Fiza Kousar"        # Change this to your name
 
 # Fun royal compliments
 praises = [
-    "🚀 Oh mighty fixer of bugs, your keyboard is no less than a wand!",
-    "🌟 The kingdom of code bows before your debugging might!",
-    "👨‍💼 You don’t squash bugs, you *obliterate* them like a true legend!",
-    "🎖️ The wise wizard of web apps, healer of HTML hiccups!",
-    "🌟 Each bug fears your name, and each feature sings it!"
+    "🐞 Oh mighty bug-whisperer, even bugs file leave requests when they see you coming!",
+    "🧙‍♂️ Debugging spells? Nah, you just glare at the code and it fixes itself out of fear.",
+    "🛠️ They said no one could fix that bug… then you entered the chat like: *‘hold my keyboard.’*",
+    "🔥 Stack Overflow probably has you bookmarked. Even ChatGPT’s like: ‘ask them, not me!’",
+    "⚔️ Bugs flee, logs cry, and code behaves — all thanks to your legendary ‘Did you even test this?’ energy!"
 ]
 
 # Funny royal-style response generator
@@ -108,14 +108,14 @@ else:
     st.header("📜 Scroll of Legendary Achievements")
 
     achievements = [
-    "🏅 Knight of No Merge Conflicts",
-    "🛡️ Guardian of Clean Code",
-    "🪄 Sorcerer of Stack Overflow Scrolls",
-    "🐞 Bug Slayer Extraordinaire",
-    "📦 Commander of Commits",
-    "🔥 Deployer of Dreams (and builds)",
-    "🚀 Captain of the Continuous Integration Ship"
-] 
+    "🏅 Knight of Zero Merge Conflicts (well... almost)",
+    "🛡️ Defender of the Backend Realm – until the API breaks",
+    "🪄 Sorcerer of Stack Overflow – copy, paste, pray",
+    "🐞 Bug Slayer Extraordinaire – after introducing a few first 😉",
+    "📦 Commander of Commits – especially those 'quick fixes'",
+    "🔥 Deployer of Dreams – and occasional panic attacks",
+    "🚀 Captain of CI/CD – when Jenkins isn’t throwing tantrums"
+]
 
     for title in achievements:
         st.balloons()
