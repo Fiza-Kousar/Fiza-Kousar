@@ -123,21 +123,6 @@ else:
         time.sleep(2)
 
     st.markdown("---")
-    st.caption("Made this to celebrate your awesomeness! - Deviously coded by Your Favorite Headache 🧠💥")
-
-    roasts = [
-    "😈 Remember, this praise is just a clever disguise so you’ll keep fixing bugs *really fast*. No slacking! 🐢💨",
-    "🔥 Warning: Too much awesomeness in one place — may cause sudden bursts of coding genius, mysterious disappearing bugs, and the boss wondering if you’ve made a deal with the devil. 😈👀",
-    "😜 **FYI:** This royal treatment comes with a secret fine print — you owe me at least one sprint where I won’t mark a QA miss, even if there totally is one. Deal? 🤝",
-    "🤡 **Disclaimer:** All compliments here are sponsored by my desperate need for your coding magic. Keep the magic flowing! ✨",
-    "🕵️‍♂️ **Note:** If you think this was pure generosity, think again. I’m just investing in my own bug-free future. Smart, right? 😎"
-    "🕵️‍♂️ Pro tip: Don’t mistake this for generosity — I’m just hoping for a bunch of bugs to keep my bug-hunting skills sharp. Bring them on! 😈🔍"
-
-]
-
+    st.caption("Made this to celebrate your awesomeness! - Deviously coded by The BEST QA 🧠💥")
     st.markdown("---")
-    st.header("⚔️ Hello Dev, Don't be over excited with the Treatement OK")
-    for roast in roasts:
-        st.markdown(roast)
-        time.sleep(1.2)
 
